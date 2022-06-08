@@ -1,8 +1,5 @@
-# [Awesome-anti-forensic](https://github.com/shadawck/Awesome-anti-forensic)
+# [Anti-forensic Tools](https://github.com/evil775/Anti-forensic-Tools )
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff?&style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
 Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.
 
@@ -139,5 +136,5 @@ Thanks for visiting ! If you have suggestions, then open an issue, or submit a P
 
 ## License
 
-[![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
-Licensed under Creative Commons, CC BY 4.0, © [HUGUET Rémi @shadawck](https://github.com/shadawck) 2021
+[![License](https://github.com/evil775/Anti-forensic-Tools/blob/main/LICENSE)
+
